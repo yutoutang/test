@@ -15,3 +15,6 @@ coverage/
 
 # npm output
 package-lock.json
+
+.github
+.jest
