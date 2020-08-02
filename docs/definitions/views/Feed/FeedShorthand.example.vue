@@ -12,7 +12,7 @@ export default {
           date: '1小时前',
           image: 'static/images/avatar/small/elliot.jpg',
           meta: '4 Likes',
-          summary: '小明关注了你',
+          summary: '小明关注了你呀',
         },
         {
           date: '两天前',
