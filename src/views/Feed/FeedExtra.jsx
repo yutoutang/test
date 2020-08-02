@@ -4,20 +4,20 @@ import { Image } from '../../elements';
 export default {
   name: 'SuiFeedExtra',
   mixins: [SemanticUIVueMixin],
-  description: 'A feed can contain an extra content',
+  description: 'feed中包含的补充内容',
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
     images: {
       type: [Array, Boolean],
       description:
-        'An event can contain additional information like a set of images',
+        '事件中包含补充图片属性',
     },
     text: {
       type: Boolean,
-      description: 'An event can contain additional text information',
+      description: '事件是否需要补充文本（仍需测试）',
     },
   },
   render() {

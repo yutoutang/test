@@ -8,15 +8,15 @@ export default {
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
     date: {
       type: String,
-      description: 'Shorthand for SuiFeedDate',
+      description: '简写SuiFeedDate组件',
     },
     user: {
       type: String,
-      description: 'Shorthand for SuiFeedUser',
+      description: '简写SuiFeedUser组件',
     },
   },
   render() {

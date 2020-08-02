@@ -6,7 +6,6 @@
       :summary="summary"
       :extra-images="extraImages"
     />
-
     <sui-feed-event>
       <sui-feed-label :image="image" />
       <sui-feed-content

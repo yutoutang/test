@@ -7,27 +7,27 @@ export default {
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '简写主要内容',
     },
     date: {
       type: String,
-      description: 'Shorthand for SuiFeedDate',
+      description: '简写SuiFeedDate组件',
     },
     summary: {
       type: String,
-      description: 'Shorthand for SuiFeedSummary',
+      description: '简写SuiFeedSummary组件',
     },
     extraImages: {
       type: Array,
-      description: 'Shorthand for SuiFeedExtra with images',
+      description: '简写SuiFeedExtra-images属性',
     },
     extraText: {
       type: String,
-      description: 'Shorthand for SuiFeedExtra with text',
+      description: '简写SuiFeedExtra-text属性',
     },
     meta: {
       type: String,
-      description: 'Shorthand for SuiFeedMeta',
+      description: '简写SuiFeedMeta属性',
     },
   },
   render() {

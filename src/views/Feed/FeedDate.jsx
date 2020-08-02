@@ -3,11 +3,11 @@ import { SemanticUIVueMixin } from '../../lib';
 export default {
   name: 'SuiFeedDate',
   mixins: [SemanticUIVueMixin],
-  description: 'An event or an event summary can contain a date',
+  description: '事件中的时间元素',
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
   },
   render() {

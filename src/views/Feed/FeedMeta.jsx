@@ -8,11 +8,11 @@ export default {
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
     like: {
       type: String,
-      description: 'Shorthand for SuiFeedLike',
+      description: '简写SuiFeedLike组件',
     },
   },
   render() {

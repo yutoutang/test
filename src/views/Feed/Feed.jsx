@@ -12,7 +12,7 @@ export default {
     }),
     events: {
       type: Array,
-      description: '动态绑定事件数组简化页面编写',
+      description: '通过动态绑定事件数组，来简化页面编写',
     },
   },
   render() {

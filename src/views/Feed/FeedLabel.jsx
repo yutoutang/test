@@ -4,19 +4,19 @@ import { Icon, Image } from '../../elements';
 export default {
   name: 'SuiFeedLabel',
   mixins: [SemanticUIVueMixin],
-  description: 'An event can contain an image or icon label',
+  description: '事件包含的用户头像（图片&图标）',
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
     image: {
       type: String,
-      description: 'An event can contain image label',
+      description: '图片属性',
     },
     icon: {
       type: String,
-      description: 'An event can contain icon label',
+      description: '图标属性',
     },
   },
   render() {

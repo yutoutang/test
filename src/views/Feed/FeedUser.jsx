@@ -3,11 +3,11 @@ import { SemanticUIVueMixin } from '../../lib';
 export default {
   name: 'SuiFeedUser',
   mixins: [SemanticUIVueMixin],
-  description: 'A feed can contain a user element',
+  description: 'feed包含的用户元素',
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
   },
   render() {

@@ -4,15 +4,15 @@ import { Icon } from '../../elements';
 export default {
   name: 'SuiFeedLike',
   mixins: [SemanticUIVueMixin],
-  description: 'A feed can contain a like element',
+  description: '事件中的点赞元素',
   props: {
     content: {
       type: String,
-      description: 'Shorthand for primary content',
+      description: '主要内容属性',
     },
     icon: {
       type: String,
-      description: 'Shorthand for icon. Mutually exclusive with children',
+      description: '图标属性的简写，与子组件（sui-icon）互斥（测试）',
     },
   },
   render() {

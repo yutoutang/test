@@ -4,39 +4,39 @@ import { FeedLabel, FeedContent } from './';
 export default {
   name: 'SuiFeedEvent',
   mixins: [SemanticUIVueMixin],
-  description: 'A feed contains an event',
+  description: 'feed中的事件元素',
   props: {
     content: {
       type: String,
-      description: 'Shorthand for SuiFeedContent',
+      description: '简写SuiFeedContent组件',
     },
     image: {
       type: String,
-      description: 'An event can contain image label',
+      description: '图片属性',
     },
     icon: {
       type: String,
-      description: 'An event can contain icon label',
+      description: '图标属性',
     },
     date: {
       type: String,
-      description: 'Shorthand for SuiFeedDate',
+      description: '简写SuiFeedDate组件',
     },
     summary: {
       type: String,
-      description: 'Shorthand for SuiFeedSummary',
+      description: '简写SuiFeedSummary组件',
     },
     extraImages: {
       type: Array,
-      description: 'Shorthand for SuiFeedExtra with images',
+      description: '简写SuiFeedExtra-images属性',
     },
     extraText: {
       type: String,
-      description: 'Shorthand for SuiFeedExtra with text',
+      description: '简写SuiFeedExtra-text属性',
     },
     meta: {
       type: String,
-      description: 'Shorthand for SuiFeedMeta',
+      description: '简写SuiFeedMeta组件',
     },
   },
   render() {

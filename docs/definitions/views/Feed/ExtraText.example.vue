@@ -7,7 +7,7 @@
         <sui-feed-summary>
           <a>小芋</a> 下班打卡成功
         </sui-feed-summary>
-        <sui-feed-extra text>
+        <sui-feed-extra>
           小芋已经连续5周没有加班啦！
         </sui-feed-extra>
       </sui-feed-content>
