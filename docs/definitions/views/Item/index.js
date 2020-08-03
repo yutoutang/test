@@ -1,35 +1,35 @@
 export default [
   {
-    name: 'Types',
+    name: '种类',
     examples: [
       {
         name: 'Items',
-        description: 'A group of items',
+        description: '一组items',
         file: 'ItemGroup',
       },
     ],
   },
   {
-    name: 'Content',
+    name: '内容',
     examples: [
       {
-        name: 'Image',
-        description: 'An item can contain an image',
+        name: '图片',
+        description: '',
         file: 'ContentImage',
       },
       {
-        name: 'Content',
-        description: 'An item can contain content',
+        name: '内容',
+        description: '',
         file: 'ContentContent',
       },
       {
-        name: 'Header',
-        description: 'An item can contain a header',
+        name: '标题',
+        description: '',
         file: 'ContentHeader',
       },
       {
-        name: 'Metadata',
-        description: 'An item can contain content metadata',
+        name: '其他元素',
+        description: '',
         file: 'ContentMeta',
       },
     ],
