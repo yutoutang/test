@@ -5,7 +5,7 @@
         22
       </sui-statistic-value>
       <sui-statistic-label>
-        Saves
+        动态
       </sui-statistic-label>
     </sui-statistic>
     <sui-statistic in-group>
@@ -14,13 +14,13 @@
         Thousand
       </sui-statistic-value>
       <sui-statistic-label>
-        Signups
+        浏览量
       </sui-statistic-label>
     </sui-statistic>
     <sui-statistic in-group>
       <sui-statistic-value> <i class="plane icon"></i> 5 </sui-statistic-value>
       <sui-statistic-label>
-        Flights
+        航班
       </sui-statistic-label>
     </sui-statistic>
     <sui-statistic in-group>
@@ -32,7 +32,7 @@
         42
       </sui-statistic-value>
       <sui-statistic-label>
-        Team Members
+        团队成员
       </sui-statistic-label>
     </sui-statistic>
   </sui-statistics-group>
