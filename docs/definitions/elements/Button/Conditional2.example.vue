@@ -1,8 +1,8 @@
 <template lang="html">
   <div is="sui-button-group">
-    <sui-button>un</sui-button>
-    <sui-button-or text="ou" />
-    <sui-button positive>deux</sui-button>
+    <sui-button>取消</sui-button>
+    <sui-button-or text="或" />
+    <sui-button positive>保存</sui-button>
   </div>
 </template>
 

@@ -1,7 +1,7 @@
 <template lang="html">
   <div>
-    <sui-button floated="left" content="Left floated" />
-    <sui-button floated="right" content="Right floated" />
+    <sui-button floated="left" content="左浮动" />
+    <sui-button floated="right" content="右浮动" />
   </div>
 </template>
 

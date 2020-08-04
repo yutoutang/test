@@ -1,5 +1,5 @@
 <template lang="html">
-  <sui-button basic content="Add Friend" icon="user" />
+  <sui-button basic content="添加朋友" icon="user" />
 </template>
 
 <script>

@@ -1,6 +1,6 @@
 <template lang="html">
   <div>
-    <sui-button>关注我呦～</sui-button>
+    <sui-button>点我</sui-button>
   </div>
 </template>
 

@@ -1,5 +1,5 @@
 <template lang="html">
-  <sui-button active content="Follow" icon="user" />
+  <sui-button active content="关注" icon="user" />
 </template>
 
 <script>

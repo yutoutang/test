@@ -1,7 +1,7 @@
 <template lang="html">
   <div>
-    <sui-button content="Pause" icon="pause" label-position="left" />
-    <sui-button content="Next" icon="right arrow" label-position="right" />
+    <sui-button content="暂停" icon="pause" label-position="left" />
+    <sui-button content="下一首" icon="right arrow" label-position="right" />
   </div>
 </template>
 

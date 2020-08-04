@@ -1,5 +1,5 @@
 <template lang="html">
-  <sui-button disabled content="Followed" icon="user" />
+  <sui-button disabled content="已关注" icon="user" />
 </template>
 
 <script>

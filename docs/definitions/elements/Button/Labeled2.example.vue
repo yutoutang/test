@@ -6,7 +6,7 @@
       </a>
     </sui-button>
 
-    <sui-button basic color="blue" content="Fork" icon="fork">
+    <sui-button basic color="blue" content="复刻" icon="fork">
       <a is="sui-label" slot="label" basic color="blue" pointing="left">
         1,048
       </a>

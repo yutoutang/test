@@ -1,7 +1,7 @@
 <template lang="html">
   <sui-button
     toggle
-    content="Vote"
+    content="同意"
     :active="isActive"
     @click="isActive = !isActive"
   />

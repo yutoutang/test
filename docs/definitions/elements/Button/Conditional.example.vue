@@ -1,8 +1,8 @@
 <template lang="html">
   <div is="sui-button-group">
-    <sui-button>Cancel</sui-button>
+    <sui-button>取消</sui-button>
     <sui-button-or />
-    <sui-button positive>Save</sui-button>
+    <sui-button positive>保存</sui-button>
   </div>
 </template>
 

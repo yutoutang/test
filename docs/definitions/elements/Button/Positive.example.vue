@@ -1,5 +1,5 @@
 <template lang="html">
-  <sui-button positive content="Positive Button" />
+  <sui-button positive content="确定" />
 </template>
 
 <script>

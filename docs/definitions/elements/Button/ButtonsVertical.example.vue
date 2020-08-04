@@ -1,9 +1,9 @@
 <template lang="html">
   <sui-button-group vertical>
-    <sui-button>Feed</sui-button>
-    <sui-button>Messages</sui-button>
-    <sui-button>Events</sui-button>
-    <sui-button>Photos</sui-button>
+    <sui-button>@我的</sui-button>
+    <sui-button>评论</sui-button>
+    <sui-button>赞</sui-button>
+    <sui-button>私信</sui-button>
   </sui-button-group>
 </template>
 

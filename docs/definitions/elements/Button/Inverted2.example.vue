@@ -1,18 +1,18 @@
 <template lang="html">
   <div is="sui-segment" inverted>
-    <sui-button basic color="red" inverted>Basic Red</sui-button>
-    <sui-button basic color="orange" inverted>Basic Orange</sui-button>
-    <sui-button basic color="yellow" inverted>Basic Yellow</sui-button>
-    <sui-button basic color="olive" inverted>Basic Olive</sui-button>
-    <sui-button basic color="green" inverted>Basic Green</sui-button>
-    <sui-button basic color="teal" inverted>Basic Teal</sui-button>
-    <sui-button basic color="blue" inverted>Basic Blue</sui-button>
-    <sui-button basic color="violet" inverted>Basic Violet</sui-button>
-    <sui-button basic color="purple" inverted>Basic Purple</sui-button>
-    <sui-button basic color="pink" inverted>Basic Pink</sui-button>
-    <sui-button basic color="brown" inverted>Basic Brown</sui-button>
-    <sui-button basic color="grey" inverted>Basic Grey</sui-button>
-    <sui-button basic color="black" inverted>Basic Black</sui-button>
+    <sui-button basic color="red" inverted>基本红</sui-button>
+    <sui-button basic color="orange" inverted>基本橙</sui-button>
+    <sui-button basic color="yellow" inverted>基本橙</sui-button>
+    <sui-button basic color="olive" inverted>基本橄榄绿</sui-button>
+    <sui-button basic color="green" inverted>基本绿</sui-button>
+    <sui-button basic color="teal" inverted>基本青</sui-button>
+    <sui-button basic color="blue" inverted>基本蓝</sui-button>
+    <sui-button basic color="violet" inverted>基本紫罗兰</sui-button>
+    <sui-button basic color="purple" inverted>基本紫</sui-button>
+    <sui-button basic color="pink" inverted>基本粉</sui-button>
+    <sui-button basic color="brown" inverted>基本褐</sui-button>
+    <sui-button basic color="grey" inverted>基本灰</sui-button>
+    <sui-button basic color="black" inverted>基本黑</sui-button>
   </div>
 </template>
 

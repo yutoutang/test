@@ -8,7 +8,7 @@
     </sui-button>
 
     <sui-button animated="vertical">
-      <sui-button-content hidden>商店</sui-button-content>
+      <sui-button-content hidden>购物车</sui-button-content>
       <sui-button-content visible>
         <sui-icon name="shop" />
       </sui-button-content>
@@ -16,10 +16,10 @@
 
     <sui-button animated="fade">
       <sui-button-content visible>
-        支付VIP账户
+        购买会员
       </sui-button-content>
       <sui-button-content hidden>
-        每月100元
+        ￥15/月
       </sui-button-content>
     </sui-button>
   </div>
