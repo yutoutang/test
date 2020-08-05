@@ -3,27 +3,27 @@
     <sui-accordion is="sui-menu" :active-index="1" vertical exclusive styled>
       <sui-accordion-title is="sui-menu-header" active>
         <sui-icon name="dropdown" />
-        Size
+        尺寸
       </sui-accordion-title>
       <sui-accordion-content active>
         <sui-form>
           <sui-form-field>
-            <sui-checkbox label="Small" />
+            <sui-checkbox label="S" />
           </sui-form-field>
           <sui-form-field>
-            <sui-checkbox label="Medium" />
+            <sui-checkbox label="M" />
           </sui-form-field>
           <sui-form-field>
-            <sui-checkbox label="Large" />
+            <sui-checkbox label="L" />
           </sui-form-field>
           <sui-form-field>
-            <sui-checkbox label="X-Large" />
+            <sui-checkbox label="XL" />
           </sui-form-field>
         </sui-form>
       </sui-accordion-content>
       <sui-accordion-title is="sui-menu-header">
         <sui-icon name="dropdown" />
-        Colors
+        颜色
       </sui-accordion-title>
       <sui-accordion-content>
         <sui-form>

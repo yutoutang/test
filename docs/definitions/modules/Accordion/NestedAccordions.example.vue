@@ -7,7 +7,7 @@
         <sui-accordion exclusive styled>
           <sui-accordion-title>Level 1A</sui-accordion-title>
           <sui-accordion-content active>
-            Level 1A Contents
+            Level 1A 的内容
             <sui-accordion exclusive styled>
               <sui-accordion-title>Level 1A-A</sui-accordion-title>
               <sui-accordion-content>Level 1A-A Contents</sui-accordion-content>

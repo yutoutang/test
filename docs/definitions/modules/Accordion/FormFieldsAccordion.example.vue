@@ -3,26 +3,26 @@
     <sui-segment>
       <sui-form>
         <sui-form-field>
-          <label>First Name</label>
-          <input placeholder="First Name" />
+          <label>用户名</label>
+          <input placeholder="用户名" />
         </sui-form-field>
         <sui-form-field>
-          <label>Last Name</label>
-          <input placeholder="Last Name" />
+          <label>密码</label>
+          <input placeholder="密码" />
         </sui-form-field>
         <sui-form-field>
           <sui-accordion>
             <a is="sui-accordion-title">
               <sui-icon name="dropdown" />
-              Optional Details
+              其他
             </a>
             <sui-accordion-content>
-              <label>Maiden Name</label>
-              <input placeholder="Maiden Name" />
+              <label>验证码</label>
+              <input placeholder="验证码" />
             </sui-accordion-content>
           </sui-accordion>
         </sui-form-field>
-        <sui-button type="submit">Submit</sui-button>
+        <sui-button type="submit">提交</sui-button>
       </sui-form>
     </sui-segment>
   </div>
